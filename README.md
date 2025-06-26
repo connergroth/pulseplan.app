@@ -1,6 +1,6 @@
 # PulsePlan
 
-An AI-powered study planning tool that helps students optimize their academic journey through smart scheduling, task management, and progress tracking.
+A sleek and modern landing page featuring detailed PulsePlan information and features.
 
 ## Tech Stack
 
